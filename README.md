@@ -38,4 +38,4 @@ On an Apple Silicon machine the scripts select `mps`; otherwise they fall back t
 
 ## Attribution
 
-AnoLLM and the base implementation are by Liu et al. and Amazon Science. The original repository's Apache-2.0 license, notice, and third-party notices are retained. My contribution here is limited to the local MPS reproduction path and its documentation.
+AnoLLM and the base implementation are by Che-Ping Tsai, Ganyu Teng, Phil Wallis, and Wei Ding at Amazon Science. The original repository's Apache-2.0 license, notice, and third-party notices are retained. My contribution here is limited to the local MPS reproduction path and its documentation.
