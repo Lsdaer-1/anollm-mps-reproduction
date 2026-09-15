@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+data/
+exp/
+wandb/
+*.pt
+*.npy
+*.pkl
